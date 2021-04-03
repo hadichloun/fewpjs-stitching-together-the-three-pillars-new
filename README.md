@@ -1,4 +1,4 @@
-# Stitching Together the Three Pillars
+<!-- # Stitching Together the Three Pillars
 
 ## Learning Goals
 
@@ -66,7 +66,7 @@ the code that locates the page element we want — in this case, the heart.
 
 ![demonstration of un-commenting step one][three-pillars-example-comment-step-one]
 
-### Cause a Change to Given Code So That Server-Side Behavior Is Stubbed in
+### Cause a Change to Given Code So That Server-Side Behavior Is Stubbed in -->
 
 Next, in your `demo.js` file, find the comments describing Step 2, which sets up
 the mock server communication (our third pillar):
